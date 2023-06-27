@@ -16,6 +16,8 @@ The ability to export the visualization to a different format, such as a video. 
 Overall, the code is a good example of how to use the rayshader package to create 3D visualizations of spatial data. The code is well-commented, and it is easy to follow. The code could be improved by adding some additional features, but it is a good starting point for creating 3D visualizations of spatial data.
 
 ## References:
-1). https://github.com/milos-agathon/making-crisp-spike-maps-with-r/tree/main \n
-2). https://github.com/Pecners/rayshader_portraits/blob/main/README.md \n
-3). https://github.com/tylermorganwall/rayshader \n
+1). https://github.com/milos-agathon/making-crisp-spike-maps-with-r/tree/main
+
+2). https://github.com/Pecners/rayshader_portraits/blob/main/README.md 
+
+3). https://github.com/tylermorganwall/rayshader 
